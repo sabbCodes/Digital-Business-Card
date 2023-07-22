@@ -53,7 +53,7 @@ body{
 
 #emailBtn,
 #linkedinBtn{
-  padding: .3em .4em;
+  padding: .3em .95em;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -155,10 +155,12 @@ p{
   }
 
   #emailBtn{
+    padding: .3em .4em;
     width: 5.5rem;
   }
 
   #linkedinBtn{
+    padding: .3em .4em;
     width: 6.9rem;
   }
 
