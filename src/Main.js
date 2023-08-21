@@ -3,7 +3,7 @@ import React from 'react';
 function Main(){
     return (
         <section className='about'>
-            <div>
+            <div className='aboutInner'>
                 <h4>About Me</h4>
                 <p>
                     Passionate and accomplished Frontend Web Developer with dual certificates in Frontend Web Development.
@@ -12,7 +12,7 @@ function Main(){
                     I bring a results-driven mindset to every development challenge.
                 </p>
             </div>
-            <div>
+            <div className='aboutInner'>
                 <h4>Interests</h4>
                 <p>
                     Reader. Internet fanatic. Scholar. Medic. Gamer. Aviation fanatic. Travel geek.
